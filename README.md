@@ -10,7 +10,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 ---
 ## 🔐 Entity Relationship Diagram
 <p align="center">
-<img src="E:\Danny_ma_challenge_SQL\relationship.png"
+<img src="https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/img/relationship.png" align="center" width="500" height="250" >
 
 
 ---
