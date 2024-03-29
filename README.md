@@ -2,6 +2,13 @@
 <p align="center">
 <img src="https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/img/danny_dinner_img.png" align="center" width="400" height="400" >
 
+## 📕 Table of Contents
+* [Bussiness Task](https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/README.md#%EF%B8%8F-bussiness-task)
+* [Entity Relationship Diagram](https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/README.md#-entity-relationship-diagram)
+* [Case Study Questions](https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/README.md#-case-study-questions)
+* [Bonus Questions](https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/README.md#%EF%B8%8F-bonus-questions)  
+* [My Solution](https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/README.md#-my-solution)
+
 
 ---
 ## 🛠️ Bussiness Task
