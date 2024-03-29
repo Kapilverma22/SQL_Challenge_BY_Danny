@@ -1,6 +1,6 @@
 # 🍜 Case Study #1 - Danny's Diner
 <p align="center">
-<img src="https://github.com/Kapilverma22-Danny_ma_challenge_SQL\danny_dinner_img.png" align="center" width="400" height="400" >
+<img src="https://github.com/Kapilverma22/SQL_Challenge_BY_Danny/blob/main/img/danny_dinner_img.png" align="center" width="400" height="400" >
 
 ---
 ## 🛠️ Bussiness Task
