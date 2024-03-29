@@ -273,8 +273,8 @@ WITH programDates AS (
   SELECT 
     customer_id, 
     join_date,
-    DATEADD(d, 6, join_date) AS valid_date, 
-    EOMONTH('2021-01-01') AS last_date
+    DATE_ADD(join_date, INTERVAL 6 DAY) AS valid_date, 
+    LAST_DAY('2021-01-01') AS last_date
   FROM members
 )
 
@@ -291,6 +291,7 @@ JOIN menu m
   ON s.product_id = m.product_id
 WHERE s.order_date <= last_date
 GROUP BY p.customer_id;
+
 ```
 | customer_id | total_points |
 |-------------|--------------|
